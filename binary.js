@@ -11,7 +11,7 @@ function binarySearch(arr, target) {
       if (arr[middle] === target) {
         // нашли искомый элемент
         return true;
-      } else if (arr[middle] < target {
+      } else if (arr[middle] < target) {
         // Продолжаем поиск в правой половине массива, обновляем левую границу.
         left = middle + 1;
       } else {
