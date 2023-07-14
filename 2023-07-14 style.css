@@ -1,0 +1,6 @@
+.text-window {
+  width: 300px;
+  height: 150px;
+  border: 2px solid red;
+  margin: 10px 10px 10px 0;
+}
