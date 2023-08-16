@@ -11,7 +11,6 @@
     "start:dev": "webpack-dev-server"
   },
   "keywords": [],
-  "author": "Batan Andrei",
   "license": "ISC",
   "devDependencies": {
     "css-loader": "^6.8.1",
